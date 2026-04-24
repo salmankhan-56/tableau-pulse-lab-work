@@ -1,15 +1,14 @@
 # tableau-pulse-lab-work
 
-This repository contains multiple academic code files for practice and learning.
+## Description
+This repository contains academic project documentation and sample implementation files.
 
-## Files Included
-- main.py
-- program_1.py
-- program_2.py
-- program_3.py
-- notes.md
+## Files
+- README.md
+- project_overview.md
+- modules.md
+- sample_code.py
+- test_cases.md
 
-## How to Run
-Use Python:
-
-python main.py
+## Purpose
+This project is prepared for college practical and GitHub submission.

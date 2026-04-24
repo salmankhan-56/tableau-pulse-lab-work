@@ -1,2 +1,0 @@
-print("Welcome to tableau-pulse-lab-work")
-print("This is the main program file.")
